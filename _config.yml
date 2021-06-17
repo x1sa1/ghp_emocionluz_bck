@@ -1,4 +1,4 @@
-title: Stackbit DIY Theme
+title: "Stackbit DIY Theme"
 baseurl: /
 permalink: '/:title/'
 plugins:

@@ -97,7 +97,7 @@
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
-                "label": "Terminos & Conditions",
+                "label": "Terminos & Condiciones",
                 "url": "/terms-conditions",
                 "style": "link"
             },

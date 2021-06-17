@@ -10,6 +10,7 @@ sass:
   indentWidth: 4
   style: expanded
   precision: 10
+encoding: UTF-8
 exclude:
   - Gemfile
   - Gemfile.lock

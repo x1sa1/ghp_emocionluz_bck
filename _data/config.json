@@ -1,8 +1,8 @@
 {
-    "title": "Stackbit DIY Theme",
+    "title": "emocionLUZ - Iluminación y Sistemas de Control Inteligentes",
     "layout_type": "boxed",
     "style": "classic",
-    "palette": "green",
+    "palette": "gray",
     "mode": "light",
     "base_font": "serif",
     "header": {
@@ -148,5 +148,5 @@
         ],
         "content": "&copy; emocionLUZ. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "domain": "https://amazing-avocado-a9f0f.netlify.app"
+    "domain": "https://www.emocionluz.com"
 }

@@ -64,7 +64,7 @@
         "primary_nav_title": "Compañia",
         "primary_nav_links": [
             {
-                "label": "A ",
+                "label": "Acerca de",
                 "url": "/about",
                 "style": "link"
             },
